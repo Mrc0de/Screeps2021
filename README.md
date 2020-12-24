@@ -42,6 +42,7 @@ New Refactored Screeps (2020+)
 # Memory
 
 # my misc notes
+- all sorts of crap below
 # move costs
 - Road - 1
 - Land - 2
