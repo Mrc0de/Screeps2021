@@ -18,4 +18,5 @@ module.exports.loop = function () {
     /////////////
     //
     /////////////
+    console.log("CPU Used / Bucket: " + Game.cpu.getUsed() + " / " + Game.cpu.bucket );
 }
