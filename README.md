@@ -52,11 +52,20 @@ New Refactored Screeps (2020+)
 # Energy Max Storage
 - Spawn 300
 - Extension adds 50
+- exact location of extensions within a room does not matter
+- one extension can be used by several spawns
 
 # Body Parts
 - WORK, MOVE,CARRY,ATTACK,RANGED_ATTACK,HEAL,CLAIM,TOUGH
 - https://docs.screeps.com/creeps.html
 
+# Fatigue Points
+- 1 point per body part on roads, 2 on plain land, 10 on swamp
+- Each MOVE body part decreases fatigue points by 2 per tick
+- cannot move when fatigue is more than zero
+
+# Basic Worker
+- [CARRY, WORK, MOVE]
 
 # old deprecated calls
 - Method `Game.map.getTerrainAt` is deprecated and will be removed
