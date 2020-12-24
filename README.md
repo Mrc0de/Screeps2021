@@ -43,10 +43,20 @@ New Refactored Screeps (2020+)
 
 # my misc notes
 - all sorts of crap below
+
 # move costs
 - Road - 1
 - Land - 2
 - Swamp - 10
+
+# Energy Max Storage
+- Spawn 300
+- Extension adds 50
+
+# Body Parts
+- WORK, MOVE,CARRY,ATTACK,RANGED_ATTACK,HEAL,CLAIM,TOUGH
+- https://docs.screeps.com/creeps.html
+
 
 # old deprecated calls
 - Method `Game.map.getTerrainAt` is deprecated and will be removed
