@@ -11,8 +11,21 @@ New Refactored Screeps (2020+)
 - monitor cpu / bucket / ticks, add stats etc
 - harvesting stats
 - screep stats
+- Minerals
+- Factories
+- Links
+- PowerScreeps
+- Labs
 
 # Spawning
+- body part decider ( spawn )
+- screep initial type/role
+- spawn timing
+- spawn energy demands
+- spawn strategy
+- Emergency Mode
+- spawn stats
+
 
 # Harvesting
 
@@ -27,3 +40,12 @@ New Refactored Screeps (2020+)
 # Death
 
 # Memory
+
+# my misc notes
+# move costs
+- Road - 1
+- Land - 2
+- Swamp - 10
+
+# old deprecated calls
+- Method `Game.map.getTerrainAt` is deprecated and will be removed
