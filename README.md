@@ -8,6 +8,8 @@ New Refactored Screeps (2020+)
 - when screep changes room, new (our)spawn owns or no spawn owns them, screep decides where to go and what to do
 - Spawn can broadcast requests, screeps can respond, or not respond
 
+# Spawning
+
 # Harvesting
 
 # Building
@@ -15,3 +17,9 @@ New Refactored Screeps (2020+)
 # Exploring
 
 # Combat
+
+# Recycling
+
+# Death
+
+# Memory
