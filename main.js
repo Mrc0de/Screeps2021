@@ -1,8 +1,8 @@
 module.exports.loop = function () {
     // requires
     let _ = require('lodash');
-    // let spawner = require('spawn.cs');
-    // let screeper = require('screep.cs');
+    // let spawner = require('spawn.js');
+    // let screeper = require('screep.js');
     
     /////////////
     // dig graves
