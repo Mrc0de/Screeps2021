@@ -8,6 +8,9 @@ New Refactored Screeps (2020+)
 - when screep changes room, new (our)spawn owns or no spawn owns them, screep decides where to go and what to do
 - Spawn can broadcast requests, screeps can respond, or not respond
 - map room into spawn memory, try to autobuild when possible
+- monitor cpu / bucket / ticks, add stats etc
+- harvesting stats
+- screep stats
 
 # Spawning
 
